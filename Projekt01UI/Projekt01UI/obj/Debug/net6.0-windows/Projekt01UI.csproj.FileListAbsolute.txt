@@ -1,0 +1,17 @@
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\bin\Debug\net6.0-windows\Projekt01UI.exe
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\bin\Debug\net6.0-windows\Projekt01UI.deps.json
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\bin\Debug\net6.0-windows\Projekt01UI.runtimeconfig.json
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\bin\Debug\net6.0-windows\Projekt01UI.dll
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\bin\Debug\net6.0-windows\Projekt01UI.pdb
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\Projekt01UI.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\Projekt01UI.Form1.resources
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\Projekt01UI.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\Projekt01UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\Projekt01UI.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\Projekt01UI.AssemblyInfo.cs
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\Projekt01UI.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\Projekt01UI.dll
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\refint\Projekt01UI.dll
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\Projekt01UI.pdb
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\Projekt01UI.genruntimeconfig.cache
+C:\Users\student\Desktop\ZSK_P01_4D_Wojciech_Weiss_-main\Projekt01UI\Projekt01UI\obj\Debug\net6.0-windows\ref\Projekt01UI.dll
