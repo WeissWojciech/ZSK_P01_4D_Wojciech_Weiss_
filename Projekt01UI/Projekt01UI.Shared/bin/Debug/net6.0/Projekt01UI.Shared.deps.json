@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projekt01UI.Shared/1.0.0": {
+        "runtime": {
+          "Projekt01UI.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekt01UI.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

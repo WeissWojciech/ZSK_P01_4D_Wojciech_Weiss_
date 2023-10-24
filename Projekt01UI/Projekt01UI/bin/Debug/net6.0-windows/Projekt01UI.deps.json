@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Projekt01UI/1.0.0": {
+        "dependencies": {
+          "Projekt01UI.Core": "1.0.0",
+          "Projekt01UI.Shared": "1.0.0"
+        },
         "runtime": {
           "Projekt01UI.dll": {}
+        }
+      },
+      "Projekt01UI.Core/1.0.0": {
+        "dependencies": {
+          "Projekt01UI.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Projekt01UI.Core.dll": {}
+        }
+      },
+      "Projekt01UI.Shared/1.0.0": {
+        "runtime": {
+          "Projekt01UI.Shared.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Projekt01UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Projekt01UI.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Projekt01UI.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

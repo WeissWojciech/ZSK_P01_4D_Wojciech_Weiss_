@@ -1,0 +1,15 @@
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\bin\Debug\net6.0\projekt01UI_E03.Core.deps.json
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\bin\Debug\net6.0\projekt01UI_E03.Core.dll
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\bin\Debug\net6.0\projekt01UI_E03.Core.pdb
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\bin\Debug\net6.0\projekt01UI_E03.Shared.dll
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\bin\Debug\net6.0\projekt01UI_E03.Shared.pdb
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\obj\Debug\net6.0\projekt01UI_E03.Core.csproj.AssemblyReference.cache
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\obj\Debug\net6.0\projekt01UI_E03.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\obj\Debug\net6.0\projekt01UI_E03.Core.AssemblyInfoInputs.cache
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\obj\Debug\net6.0\projekt01UI_E03.Core.AssemblyInfo.cs
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\obj\Debug\net6.0\projekt01UI_E03.Core.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\obj\Debug\net6.0\projekt01UI_E03.Core.csproj.CopyComplete
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\obj\Debug\net6.0\projekt01UI_E03.Core.dll
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\obj\Debug\net6.0\refint\projekt01UI_E03.Core.dll
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\obj\Debug\net6.0\projekt01UI_E03.Core.pdb
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03.Core\obj\Debug\net6.0\ref\projekt01UI_E03.Core.dll

@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "projekt01UI_E03.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "projekt01UI_E03.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/projekt01UI_E03.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/projekt01UI_E03.Core.dll": {}
+        }
+      },
+      "projekt01UI_E03.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/projekt01UI_E03.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/projekt01UI_E03.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projekt01UI_E03.Core/1.0.0": {
+      "type": "project",
+      "path": "../projekt01UI_E03.Core/projekt01UI_E03.Core.csproj",
+      "msbuildProject": "../projekt01UI_E03.Core/projekt01UI_E03.Core.csproj"
+    },
+    "projekt01UI_E03.Shared/1.0.0": {
+      "type": "project",
+      "path": "../projekt01UI_E03.Shared/projekt01UI_E03.Shared.csproj",
+      "msbuildProject": "../projekt01UI_E03.Shared/projekt01UI_E03.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "projekt01UI_E03.Core >= 1.0.0",
+      "projekt01UI_E03.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Wojtek\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\projekt01UI_E03\\projekt01UI_E03.csproj",
+      "projectName": "projekt01UI_E03",
+      "projectPath": "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\projekt01UI_E03\\projekt01UI_E03.csproj",
+      "packagesPath": "C:\\Users\\Wojtek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\projekt01UI_E03\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Wojtek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\projekt01UI_E03.Core\\projekt01UI_E03.Core.csproj": {
+              "projectPath": "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\projekt01UI_E03.Core\\projekt01UI_E03.Core.csproj"
+            },
+            "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\projekt01UI_E03.Shared\\projekt01UI_E03.Shared.csproj": {
+              "projectPath": "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\projekt01UI_E03.Shared\\projekt01UI_E03.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

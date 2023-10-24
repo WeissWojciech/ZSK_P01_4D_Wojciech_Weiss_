@@ -1,38 +1,84 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "Projekt01UI.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Projekt01UI.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Projekt01UI.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Projekt01UI.Core.dll": {}
+        }
+      },
+      "Projekt01UI.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Projekt01UI.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Projekt01UI.Shared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Projekt01UI.Core/1.0.0": {
+      "type": "project",
+      "path": "../Projekt01UI.Core/Projekt01UI.Core.csproj",
+      "msbuildProject": "../Projekt01UI.Core/Projekt01UI.Core.csproj"
+    },
+    "Projekt01UI.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Projekt01UI.Shared/Projekt01UI.Shared.csproj",
+      "msbuildProject": "../Projekt01UI.Shared/Projekt01UI.Shared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "Projekt01UI.Core >= 1.0.0",
+      "Projekt01UI.Shared >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\student\\.nuget\\packages\\": {}
+    "C:\\Users\\Wojtek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student\\Desktop\\ZSK_P01_4D_Wojciech_Weiss_-main\\Projekt01UI\\Projekt01UI\\Projekt01UI.csproj",
+      "projectUniqueName": "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\Projekt01UI\\Projekt01UI\\Projekt01UI.csproj",
       "projectName": "Projekt01UI",
-      "projectPath": "C:\\Users\\student\\Desktop\\ZSK_P01_4D_Wojciech_Weiss_-main\\Projekt01UI\\Projekt01UI\\Projekt01UI.csproj",
-      "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student\\Desktop\\ZSK_P01_4D_Wojciech_Weiss_-main\\Projekt01UI\\Projekt01UI\\obj\\",
+      "projectPath": "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\Projekt01UI\\Projekt01UI\\Projekt01UI.csproj",
+      "packagesPath": "C:\\Users\\Wojtek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\Projekt01UI\\Projekt01UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Wojtek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\Projekt01UI\\Projekt01UI.Core\\Projekt01UI.Core.csproj": {
+              "projectPath": "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\Projekt01UI\\Projekt01UI.Core\\Projekt01UI.Core.csproj"
+            },
+            "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\Projekt01UI\\Projekt01UI.Shared\\Projekt01UI.Shared.csproj": {
+              "projectPath": "C:\\Users\\Wojtek\\Desktop\\PAD\\ZSK_P01_4D_Wojciech_Weiss_\\Projekt01UI\\Projekt01UI.Shared\\Projekt01UI.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -63,7 +109,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

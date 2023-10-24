@@ -1,0 +1,7 @@
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03\obj\Debug\net6.0-windows\projekt01UI_E03.csproj.AssemblyReference.cache
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03\obj\Debug\net6.0-windows\projekt01UI_E03.Form1.resources
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03\obj\Debug\net6.0-windows\projekt01UI_E03.csproj.GenerateResource.cache
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03\obj\Debug\net6.0-windows\projekt01UI_E03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03\obj\Debug\net6.0-windows\projekt01UI_E03.AssemblyInfoInputs.cache
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03\obj\Debug\net6.0-windows\projekt01UI_E03.AssemblyInfo.cs
+C:\Users\Wojtek\Desktop\PAD\ZSK_P01_4D_Wojciech_Weiss_\projekt01UI_E03\obj\Debug\net6.0-windows\projekt01UI_E03.csproj.CoreCompileInputs.cache

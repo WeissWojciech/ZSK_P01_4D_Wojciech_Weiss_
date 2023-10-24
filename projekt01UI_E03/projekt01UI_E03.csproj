@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\projekt01UI_E03.Core\projekt01UI_E03.Core.csproj" />
+    <ProjectReference Include="..\projekt01UI_E03.Shared\projekt01UI_E03.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
